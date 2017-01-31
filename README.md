@@ -1,1 +1,2 @@
-# public
+# README:
+This is a public repository just for testing an application...
